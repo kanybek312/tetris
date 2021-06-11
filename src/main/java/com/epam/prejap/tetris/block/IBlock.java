@@ -1,11 +1,12 @@
 package com.epam.prejap.tetris.block;
 
 /**
- * @author Kanybek Mukalaev
+ *
+ * It creates I block of tetris with for rows
  * @see BlockFeed
  * @see Block
  * @see com.epam.prejap.tetris.game.Printer
- * It creates I block of tetris
+ * @author Kanybek Mukalaev
  *
  */
 class IBlock extends Block {
